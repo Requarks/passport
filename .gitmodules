@@ -10,3 +10,6 @@
 [submodule "discord"]
 	path = discord
 	url = https://github.com/nicholastay/passport-discord
+[submodule "dropbox"]
+	path = dropbox
+	url = https://github.com/florianheinemann/passport-dropbox-oauth2
