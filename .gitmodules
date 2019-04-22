@@ -4,3 +4,6 @@
 [submodule "github"]
 	path = github
 	url = https://github.com/cfsghost/passport-github
+[submodule "auth0"]
+	path = auth0
+	url = https://github.com/auth0/passport-auth0
