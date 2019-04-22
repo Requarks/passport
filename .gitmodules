@@ -1,0 +1,6 @@
+[submodule "slack"]
+	path = slack
+	url = https://github.com/aoberoi/passport-slack
+[submodule "github"]
+	path = github
+	url = https://github.com/cfsghost/passport-github
