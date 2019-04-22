@@ -7,3 +7,6 @@
 [submodule "auth0"]
 	path = auth0
 	url = https://github.com/auth0/passport-auth0
+[submodule "discord"]
+	path = discord
+	url = https://github.com/nicholastay/passport-discord
